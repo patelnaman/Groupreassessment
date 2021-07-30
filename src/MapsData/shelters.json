@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name"
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "SHELTER_ID": 1,
+          "NAME": "LB Hillingdon - Homeless Prevention Team",
+          "ADDRESS": "Civic Centre, Uxbridge, UB8 1UW",
+          "FACILITY": "Housing department",
+          "DESCRIPTIO": "Assessment of entitlement to housing for people who are homeless or threatened with homelessness. Provision of housing for people considered in priority need of housing. Temporary accommodation may be available while enquiries are made about eligibility. Also offer general housing advice and information for private and council tenants and homeless people. Emergencies phone 01895 250111. This service helps: People who are or may be priority homeless, and the general public."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.476855, 51.543474]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "SHELTER_ID": 2,
+          "NAME": "Trinity Homeless Projects - Hillingdon",
+          "ADDRESS": "LB Hillingdon Housing Options, Housing Needs Reception, Civic Centre, UB* 9SA",
+          "FACILITY": "Accommodation",
+          "DESCRIPTIO": "This service helps: Single homeless men aged 17-55 with support needs. Can accept ex-offenders and substance misusers. Must have a local connection to Hillingdon."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.476598, 51.543839]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "SHELTER_ID": 3,
+          "NAME": "Trinity Homeless Projects - Norwood Gardens",
+          "ADDRESS": "LB Hillingdon Hosuing Options, Hosuing Needs Reception, Civic Centre, UB8 9SA",
+          "FACILITY": "Accommodation",
+          "DESCRIPTIO": "This service helps: Single homeless men aged 17-55 with support needs. Can accept ex-offenders and substance misusers. Must have a local connection to Hillingdon."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.476598, 51.543839]
+        }
+    },
+      {"type": "Feature",
+        "properties": {
+          "SHELTER_ID": 4,
+          "NAME": "P3 - Chilton House",
+          "ADDRESS": "41 The Greenway, Uxbridge, UB8 2PJ",
+          "FACILITY": "Accommodation",
+          "DESCRIPTIO": "This service helps: Young single homeless people aged 18-25 with low to medium support needs. Priority given to those with a local connection to LB Hillingdon."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.479437, 51.537197]
+        }
+    },
+    {"type": "Feature",
+        "properties": {
+          "SHELTER_ID": 5,
+          "NAME": "YMCA St. Pauls Group - Uxbridge",
+          "ADDRESS": "Hillingdon Road, Uxbridge, UB10 0AE",
+          "FACILITY": "Accommodation",
+          "DESCRIPTIO": "This service helps: Young people leaving care, young people at risk aged 16-25 with low, medium or high support needs. Must have a local connection."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.4727, 51.541811]
+        }
+      },
+      {"type": "Feature",
+        "properties": {
+          "SHELTER_ID": 6,
+          "NAME": "P3 - Swakefields",
+          "ADDRESS": "20 Warwick Road, West Drayton, UB7 9BZ",
+          "FACILITY": "Accommodation",
+          "DESCRIPTIO": "This service helps: Young single homeless people aged 16-18 with additional support needs. Must have a local connection to LB Hillingdon. This hostel only accepts referrals from Hillingdon Social Services."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.471113, 51.509103]
+        }
+    }
+    ]
+}

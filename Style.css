@@ -1,0 +1,122 @@
+
+body{
+    margin : 0;
+    background-color: white;
+}
+
+.navbar{
+    padding: 3% 5px;
+    background-color: #e4e4e4 ;
+}
+
+.ul-float-right{
+    float: right;
+    width: 25%;
+}
+.navbar ul {
+    list-style: none;
+    justify-content: center;
+    display : flex;
+}
+.navbar ul li {
+    float: left;
+    padding: 0 4%;
+}
+
+/*img*/
+.navbar img{
+    height: 100px;
+    padding-left: 2% ;
+}
+
+/* Rooms */
+
+.rooms {
+    float : left;
+    width: 70%;
+    height :75vh;
+   
+}
+.rooms ul{
+    list-style : none;
+    padding : 0;
+    margin : 0;
+    width: 100%;
+}
+
+.rooms ul li a:link,
+.rooms ul li a:visited {
+    border: 1px solid black;
+    display: block;
+    padding: 40px 10px;
+    font-size: large;
+
+}
+
+/*verticalMenu*/
+.verticalMenu{
+    left: 30px;
+    position: absolute;
+    width : 20%;
+}
+
+.verticalMenu a:link,
+.verticalMenu a:visited{
+    border-radius: 10px;
+    background-color: #eee;
+    display: block;
+    padding: 10px;
+    margin: 10px 5px;
+    text-align: center;
+    
+
+}
+
+/*controls*/
+
+.controls {
+    width :30%;
+    height: 75vh;
+    float : left;
+    position: absolute;
+    right: 0px;
+
+}
+
+.controls ul{
+    list-style : none;
+    padding : 0;
+    margin : 0;
+}   
+.controls ul li a:link,
+.controls ul li a:visited{
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    padding: 20px;
+    margin: 10px 5px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.controls ul li a:hover,
+.controls ul li a:active{
+    background-color: darkgray;
+}
+
+#activeBtn{
+    background-color: gray;
+}
+/*forms*/
+.formStyle{
+    
+}
+
+
+/*links*/
+
+a{
+    text-decoration : none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}

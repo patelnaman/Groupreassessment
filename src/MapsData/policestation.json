@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name"
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PSTATION_ID": 1,
+          "NAME": "Hayes Police Station",
+          "ADDRESS": "755 Uxbridge Road, UB4 8HU"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.43507, 51.525192]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PSTATION_ID": 2,
+          "NAME": "Hillingdon Police Station",
+          "ADDRESS": "122-123 High Street, UB8 1PG"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.48085, 51.549083]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "PSTATION_ID": 3,
+          "NAME": "Southall Police Station",
+          "ADDRESS": "67 High Street, UB1 3HF"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.371686, 51.510833]
+        }
+    }
+    ]
+}
